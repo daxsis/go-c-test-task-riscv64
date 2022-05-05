@@ -26,3 +26,8 @@ func main() {
                 0)
         fmt.Print(mem)
 }
+
+/*
+root@freebsd:~/projects # uname -a
+FreeBSD freebsd 13.0-RELEASE FreeBSD 13.0-RELEASE #0 releng/13.0-n244733-ea31abc261f: Fri Apr  9 04:24:09 UTC 2021     root@releng1.nyi.freebsd.org:/usr/obj/usr/src/amd64.amd64/sys/GENERIC  amd64
+*/
